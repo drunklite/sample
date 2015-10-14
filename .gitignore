@@ -8,4 +8,4 @@ out
 gen
 # Created by .ignore support plugin (hsz.mobi)
 /target/
-spring.log
+/src/main/resources/log/spring.log
