@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39037064-cc2b-4b2d-9da3-300302b8d8af" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="39037064-cc2b-4b2d-9da3-300302b8d8af" name="Default" comment="" />
     <ignored path="sample.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -122,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/main/resources/js/JS-CDN.text" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -581,7 +580,7 @@
       <workItem from="1444500998162" duration="1162000" />
       <workItem from="1444580698896" duration="270000" />
       <workItem from="1444709910683" duration="1499000" />
-      <workItem from="1444808646177" duration="2678000" />
+      <workItem from="1444808646177" duration="2703000" />
     </task>
     <task id="LOCAL-00001" summary="add dns settings">
       <created>1444810982277</created>
@@ -619,11 +618,17 @@
       <option name="project" value="LOCAL" />
       <updated>1444811718413</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="rename spring-sample-tomcat.imp to sample.imp">
+      <created>1444811781598</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1444811781598</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8939000" />
+    <option name="totallyTimeSpent" value="8964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
