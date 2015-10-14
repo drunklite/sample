@@ -37,8 +37,18 @@ public class SampleController {
         Logger logger = LoggerFactory.getLogger(SampleController.class);
         logger.info("log with slf4j");
 
-        return this.helloWorldService.getHelloMessage()+"--JrebelWorking...";
+        return this.helloWorldService.getHelloMessage()+"--index...";
     }
+
+//    @RequestMapping("/j")
+//    @ResponseBody
+//    public String jrebel() {
+//
+//        Logger logger = LoggerFactory.getLogger(SampleController.class);
+//        logger.info("log with slf4j");
+//
+//        return this.helloWorldService.getHelloMessage()+"--JrebelWorking...";
+//    }
 
     @RequestMapping("/self")
     @ResponseBody
