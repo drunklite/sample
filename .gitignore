@@ -1,12 +1,5 @@
-/.idea
-### Example user template template
-### Example user template
-
-# IntelliJ project files
-.idea
-.iml
-out
-gen
 # Created by .ignore support plugin (hsz.mobi)
-/target/
 /src/main/resources/log/spring.log
+/target
+/.idea
+/spring-boot-sample-tomcat.iml
