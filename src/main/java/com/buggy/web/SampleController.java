@@ -50,10 +50,25 @@ public class SampleController {
 //        return this.helloWorldService.getHelloMessage()+"--JrebelWorking...";
 //    }
 
+    @RequestMapping("/tm")
+    public String tm(){
+        return "tm";
+    }
+
     @RequestMapping("/self")
     @ResponseBody
     public String selfDefine(){
         return "selfDefine function";
     }
+
+//    @Controller
+//    public class MainController {
+//
+//        @RequestMapping("/")
+//        public String index() {
+//            return "index";
+//        }
+//
+//    }
 
 }

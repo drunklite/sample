@@ -1,0 +1,2 @@
+应用了spring-boot-devtools的项目会自动的再修改了classpath的时候重启项目
+
